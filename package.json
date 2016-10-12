@@ -1,0 +1,15 @@
+{
+  "name": "git-camp",
+  "version": "1.0.0",
+  "description": "An introduction to git and github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cck"
+  },
+  "author": "jrs",
+  "license": "ISC",
+  "dependencies": {
+    "codecampkit": "^2.3.5"
+  }
+}
