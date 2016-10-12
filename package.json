@@ -10,6 +10,6 @@
   "author": "jrs",
   "license": "ISC",
   "dependencies": {
-    "codecampkit": "^2.3.5"
+    "codecampkit": "^2.4.1"
   }
 }
