@@ -38,11 +38,4 @@ You will use a separate step to record (commit) those changes from the staging a
 [GitHub](https://github.com/) is a social, code hosting website.  If you are using Git on your laptop to provide version control for your project, GitHub will host for you for free (provided it is a public repo). GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
-## Self Study / Home Work / References
-
-- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
-- [Get Reference](http://gitref.org/)
-- [Pro Git](https://progit.org/)
-
 [Home](/)  |  [Back to top](/intro/)  |  [Next](/intro/1)
