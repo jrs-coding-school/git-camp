@@ -30,12 +30,44 @@ Many source control systems work at the file level.  Git is finer grained in tha
 
 Using the `git add` command tells git to that it should be interested in the  _changes made within in the file_.  Use `git add` to stage fixes to the staging area.  
 
+### DEMO:  Create a NodeJS project and git repository from scratch
+
+Using the command line interface (CLI), create a directory named hello-world, the beginnings of a package.json file, readme.md file, index.js file.
+
+```
+$ mkdir hello-world
+$ cd hello-world
+$ npm init -y
+$ echo "# Hello World" >> readme.md
+$ echo "console.log('Hello World!')" >> index.js
+$ node index.js
+```
+### Exercise 2: Hello World
+
+### DEMO: Create a repository, checking the status, and staging changes
+
+Demonstrate the following commands wihtin our new NodeJS project:
+
+```
+$ git init
+$ git status
+$ git add
+```
+
+### Exercise 3: Create a repository, checking the status, and staging changes
+
 ### Commit
 
 You will use a separate step to record (commit) those changes from the staging area to the source code control (your git repository) via the `git commit` command.  A committed change means that the data is safely stored in your local database.
 
 ![Git stage diagram](/static/assets/img/git-stage-diagram.png)
 
+### Demo: Record changes to the repository
 
+### Exercise 4: Record changes to the repository
+
+### All the exercises...
+
+Let's demo and then practice the remaining exercises.
 
 [Home](/)  |  [Back to top](/intro/)  |  [Next](/intro/1)
