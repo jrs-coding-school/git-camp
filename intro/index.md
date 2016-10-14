@@ -33,9 +33,6 @@ You will use a separate step to record (commit) those changes from the staging a
 
 ![Git stage diagram](/static/assets/img/git-stage-diagram.png)
 
-## What is GitHub?
-
-[GitHub](https://github.com/) is a social, code hosting website.  If you are using Git on your laptop to provide version control for your project, GitHub will host for you for free (provided it is a public repo). GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
 [Home](/)  |  [Back to top](/intro/)  |  [Next](/intro/1)

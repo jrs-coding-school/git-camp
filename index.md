@@ -2,6 +2,7 @@
 
 - [Introduction](/intro)
 - [Branching](/branch)
+- [GitHub](/github)
 
 ## Self Study / Home Work / References
 
