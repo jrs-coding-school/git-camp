@@ -37,21 +37,27 @@ Create the following directories at the command line.  We will delete all of the
 
     > Windows users can use atom to create new files, if `touch` is not available.
 
+    Here are the files:
+
+    
+
     ```
-      \your-code-home-will-vary\delete-me\node-project-a\index.js
-      \your-code-home-will-vary\delete-me\node-project-a\readme.md
+    \your-code-home-will-vary\delete-me\node-project-a\index.js
+    \your-code-home-will-vary\delete-me\node-project-a\readme.md
 
-      \your-code-home-will-vary\delete-me\node-project-b\index.js
-      \your-code-home-will-vary\delete-me\node-project-b\readme.md
+    \your-code-home-will-vary\delete-me\node-project-b\index.js
+    \your-code-home-will-vary\delete-me\node-project-b\readme.md
 
 
-      \your-code-home-will-vary\delete-me\node-project-a\dal\index.js
-      \your-code-home-will-vary\delete-me\node-project-b\dal\index.js
+    \your-code-home-will-vary\delete-me\node-project-a\dal\index.js
+    \your-code-home-will-vary\delete-me\node-project-b\dal\index.js
     ```
+
 
   - Within each of the following project folders, use `npm init -y` to initialize and create the beginnings of a nodeJS project.
- s
+
+
     ```
-      \your-code-home-will-vary\delete-me\node-project-a
-      \your-code-home-will-vary\delete-me\node-project-b
+    \your-code-home-will-vary\delete-me\node-project-a
+    \your-code-home-will-vary\delete-me\node-project-b
     ```
