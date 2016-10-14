@@ -1,5 +1,8 @@
 # Introduction to Git
 
+[Warmup](/intro/warmup)
+
+
 ## What is Git?
 
 Git is an open source, distributed version control system designed for speed and efficiency.
