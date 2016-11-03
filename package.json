@@ -1,20 +1,20 @@
 {
-    "name": "git-camp",
-    "version": "1.0.0",
-    "description": "An introduction to git and github.",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 0",
-        "start": "cck",
-        "css": "tachyons src/app.css > css/style.css --minify"
-    },
-    "author": "jrs",
-    "license": "ISC",
-    "dependencies": {
-        "codecampkit": "^2.4.1"
-    },
-    "devDependencies": {
-        "tachyons": "^4.5.4",
-        "tachyons-cli": "^1.0.8"
-    }
+  "name": "git-camp",
+  "version": "1.0.0",
+  "description": "An introduction to git and github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "cck",
+    "css": "tachyons src/app.css > css/style.css --minify"
+  },
+  "author": "jrs",
+  "license": "ISC",
+  "dependencies": {
+    "codecampkit": "^2.4.3"
+  },
+  "devDependencies": {
+    "tachyons": "^4.5.4",
+    "tachyons-cli": "^1.0.8"
+  }
 }
