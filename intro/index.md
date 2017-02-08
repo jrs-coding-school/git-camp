@@ -32,7 +32,7 @@ Using the `git add` command tells git to that it should be interested in the  _c
 
 ### DEMO:  Create a NodeJS project and git repository from scratch
 
-Using the command line interface (CLI), create a directory named hello-world, the beginnings of a package.json file, readme.md file, index.js file.
+Using the command line interface (CLI), create a directory named hello-world, the beginnings of a **package.json** file, **readme.md** file, and **index.js** file.
 
 ```
 $ mkdir hello-world
@@ -46,7 +46,7 @@ $ node index.js
 
 ### DEMO: Create a repository, checking the status, and staging changes
 
-Demonstrate the following commands wihtin our new NodeJS project:
+Demonstrate the following commands within our new NodeJS project:
 
 ```
 $ git init
