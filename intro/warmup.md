@@ -96,3 +96,5 @@ Create the following directories at the command line.  We will delete all of the
     \your-code-home-will-vary\delete-me\node-project-a
     \your-code-home-will-vary\delete-me\node-project-b
     ```
+
+[Home](/)   |  [Intro](/intro/)  
