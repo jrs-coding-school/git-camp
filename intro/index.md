@@ -51,7 +51,7 @@ Demonstrate the following commands within our new NodeJS project:
 ```
 $ git init
 $ git status
-$ git add
+$ git add .
 ```
 
 ### Exercise 3: Create a repository, checking the status, and staging changes
